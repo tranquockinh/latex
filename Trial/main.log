@@ -1,0 +1,1458 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.28)  21 DEC 2021 01:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count176
+\Gm@cntv=\count177
+\c@Gm@tempcnt=\count178
+\Gm@bindingoffset=\dimen137
+\Gm@wd@mp=\dimen138
+\Gm@odd@mp=\dimen139
+\Gm@even@mp=\dimen140
+\Gm@layoutwidth=\dimen141
+\Gm@layoutheight=\dimen142
+\Gm@layouthoffset=\dimen143
+\Gm@layoutvoffset=\dimen144
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen145
+\captionmargin@=\dimen146
+\captionwidth=\dimen147
+\caption@tempdima=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count179
+\c@continuedfloat=\count180
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count181
+\c@subtable=\count182
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count183
+\@cmidlb=\count184
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count185
+\@lastruleclass=\count186
+\@thisrulewidth=\dimen164
+)
+! Undefined control sequence.
+<recently read> \addbibresource 
+                                
+l.12 \addbibresource
+                    {references.bib}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \addbibresource{r
+                      eferences.bib}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/british.ldf
+Language: british 2017/06/06 v3.3r English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen165
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count188
+)
+Package babel Info: \l@british = using hyphenrules for english
+(babel)             (\language0) on input line 82.
+Package babel Info: \l@UKenglish = using hyphenrules for english
+(babel)             (\language0) on input line 83.
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for english
+(babel)             (\language0) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for english
+(babel)             (\language0) on input line 108.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box45
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count190
+\scratchdimen=\dimen166
+\scratchbox=\box46
+\nofMPsegments=\count191
+\nofMParguments=\count192
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count193
+\MPscratchDim=\dimen167
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 17.07164pt
+* modes: 
+* h-part:(L,W,R)=(76.82245pt, 426.79134pt, 76.82245pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79134pt
+* \textheight=702.78308pt
+* \oddsidemargin=21.6241pt
+* \evensidemargin=4.55246pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 40.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \maketitle
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 41.
+[1] (./main.lof
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+ [1
+
+])
+\tf@lof=\write3
+\openout3 = `main.lof'.
+
+ [2] (./main.lot)
+\tf@lot=\write4
+\openout4 = `main.lot'.
+
+ [3
+
+] (./ResearchDirection/Motivation.tex
+<images/earthmodel.png, id=21, 1047.915pt x 714.67pt>
+File: images/earthmodel.png Graphic file (type png)
+<use images/earthmodel.png>
+Package pdftex.def Info: images/earthmodel.png  used on input line 6.
+(pdftex.def)             Requested size: 314.37692pt x 214.40265pt.
+
+[4
+
+ <./images/earthmodel.png>]
+<images/DCvertical.png, id=27, 1209.51875pt x 832.10875pt>
+File: images/DCvertical.png Graphic file (type png)
+<use images/DCvertical.png>
+Package pdftex.def Info: images/DCvertical.png  used on input line 21.
+(pdftex.def)             Requested size: 362.85843pt x 249.63455pt.
+<images/DChorz.png, id=28, 1200.485pt x 839.135pt>
+File: images/DChorz.png Graphic file (type png)
+<use images/DChorz.png>
+Package pdftex.def Info: images/DChorz.png  used on input line 28.
+(pdftex.def)             Requested size: 360.14828pt x 251.74243pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./images/DCvertical.png>]
+<images/VsAB.png, id=34, 966.61125pt x 364.36125pt>
+File: images/VsAB.png Graphic file (type png)
+<use images/VsAB.png>
+Package pdftex.def Info: images/VsAB.png  used on input line 37.
+(pdftex.def)             Requested size: 434.97105pt x 163.96104pt.
+
+Overfull \hbox (8.17972pt too wide) in paragraph at lines 37--38
+ [][] 
+ []
+
+<images/VsCD.png, id=35, 898.85812pt x 417.81094pt>
+File: images/VsCD.png Graphic file (type png)
+<use images/VsCD.png>
+Package pdftex.def Info: images/VsCD.png  used on input line 46.
+(pdftex.def)             Requested size: 404.48242pt x 188.01318pt.
+[6 <./images/DChorz.png>] [7 <./images/VsAB.png> <./images/VsCD.png>]
+<images/VsEF.png, id=45, 940.26282pt x 391.4625pt>
+File: images/VsEF.png Graphic file (type png)
+<use images/VsEF.png>
+Package pdftex.def Info: images/VsEF.png  used on input line 55.
+(pdftex.def)             Requested size: 423.11436pt x 176.1565pt.
+<images/RVSR.png, id=46, 797.98125pt x 419.31656pt>
+File: images/RVSR.png Graphic file (type png)
+<use images/RVSR.png>
+Package pdftex.def Info: images/RVSR.png  used on input line 62.
+(pdftex.def)             Requested size: 359.08824pt x 188.6907pt.
+ [8 <./images/VsEF.png>] [9 <./images/RVSR.png>]) [10] (./ResearchDirection/Rev
+iew.tex
+[11
+
+] [12] [13]
+<images/bigdata.png, id=68, 542.025pt x 440.64626pt>
+File: images/bigdata.png Graphic file (type png)
+<use images/bigdata.png>
+Package pdftex.def Info: images/bigdata.png  used on input line 32.
+(pdftex.def)             Requested size: 271.01183pt x 220.32259pt.
+<images/MLapp.png, id=69, 453.94594pt x 650.43pt>
+File: images/MLapp.png Graphic file (type png)
+<use images/MLapp.png>
+Package pdftex.def Info: images/MLapp.png  used on input line 43.
+(pdftex.def)             Requested size: 272.36966pt x 390.261pt.
+<images/MLarchi.png, id=70, 670.505pt x 520.94624pt>
+File: images/MLarchi.png Graphic file (type png)
+<use images/MLarchi.png>
+Package pdftex.def Info: images/MLarchi.png  used on input line 53.
+(pdftex.def)             Requested size: 402.3061pt x 312.57016pt.
+ [14 <./images/bigdata.png (PNG copy)>] [15 <./images/MLapp.png>]
+<images/NNarchi.png, id=77, 661.47125pt x 872.25874pt>
+File: images/NNarchi.png Graphic file (type png)
+<use images/NNarchi.png>
+Package pdftex.def Info: images/NNarchi.png  used on input line 64.
+(pdftex.def)             Requested size: 396.8858pt x 523.35928pt.
+<images/seisEX.png, id=78, 1059.96pt x 742.775pt>
+File: images/seisEX.png Graphic file (type png)
+<use images/seisEX.png>
+Package pdftex.def Info: images/seisEX.png  used on input line 74.
+(pdftex.def)             Requested size: 423.97649pt x 297.10474pt.
+[16 <./images/MLarchi.png (PNG copy)>] [17 <./images/NNarchi.png (PNG copy)>]
+[18 <./images/seisEX.png (PNG copy)>]
+<images/CNN.png, id=89, 1055.44313pt x 378.66469pt>
+File: images/CNN.png Graphic file (type png)
+<use images/CNN.png>
+Package pdftex.def Info: images/CNN.png  used on input line 98.
+(pdftex.def)             Requested size: 422.16978pt x 151.46318pt.
+<images/activatefun.png, id=90, 1204.5pt x 702.625pt>
+File: images/activatefun.png Graphic file (type png)
+<use images/activatefun.png>
+Package pdftex.def Info: images/activatefun.png  used on input line 109.
+(pdftex.def)             Requested size: 361.35278pt x 210.78912pt.
+ [19 <./images/CNN.png>]
+<images/inversionprocedure.png, id=94, 749.80125pt x 468.75125pt>
+File: images/inversionprocedure.png Graphic file (type png)
+<use images/inversionprocedure.png>
+Package pdftex.def Info: images/inversionprocedure.png  used on input line 123.
+
+(pdftex.def)             Requested size: 374.8997pt x 234.37505pt.
+ [20 <./images/activatefun.png (PNG copy)>]
+<images/geophoneconfig.png, id=98, 666.49pt x 186.6975pt>
+File: images/geophoneconfig.png Graphic file (type png)
+<use images/geophoneconfig.png>
+Package pdftex.def Info: images/geophoneconfig.png  used on input line 142.
+(pdftex.def)             Requested size: 399.89708pt x 112.01935pt.
+<images/fieldtesta.png, id=99, 368.87813pt x 392.96812pt>
+File: images/fieldtesta.png Graphic file (type png)
+<use images/fieldtesta.png>
+Package pdftex.def Info: images/fieldtesta.png  used on input line 152.
+(pdftex.def)             Requested size: 192.0548pt x 204.59644pt.
+<images/fieldtestb.png, id=100, 356.0803pt x 393.72093pt>
+File: images/fieldtestb.png Graphic file (type png)
+<use images/fieldtestb.png>
+Package pdftex.def Info: images/fieldtestb.png  used on input line 159.
+(pdftex.def)             Requested size: 192.0548pt x 212.3538pt.
+<images/fieldtestc.png, id=101, 359.09157pt x 365.86688pt>
+File: images/fieldtestc.png Graphic file (type png)
+<use images/fieldtestc.png>
+Package pdftex.def Info: images/fieldtestc.png  used on input line 166.
+(pdftex.def)             Requested size: 192.0548pt x 195.6838pt.
+<images/fieldtestd.png, id=102, 345.54094pt x 374.14781pt>
+File: images/fieldtestd.png Graphic file (type png)
+<use images/fieldtestd.png>
+Package pdftex.def Info: images/fieldtestd.png  used on input line 173.
+(pdftex.def)             Requested size: 192.0548pt x 207.95706pt.
+
+
+! LaTeX Error: Environment tabu undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.188   \begin{tabu}
+                    {*{8}{X[c]}}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced \noalign.
+\toprule ->\noalign 
+                    {\ifnum 0=`}\fi \@aboverulesep =\abovetopsep \global \@b...
+l.189   \toprule
+                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<recently read> \multirow 
+                          
+l.190         \multirow
+                       {2}{*}{\textbf{Parameters}} & \textbf{Dimension} & \m...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.190 ...   \multirow{2}{*}{\textbf{Parameters}} &
+                                                   \textbf{Dimension} & \mul...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.190 ...extbf{Parameters}} & \textbf{Dimension} &
+                                                   \multicolumn{3}{c}{\textb...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.190 ...column{3}{c}{\textbf{Vertical geophones}}
+                                                   & \multicolumn{3}{c}{\tex...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...column{3}{c}{\textbf{Vertical geophones}}
+                                                   & \multicolumn{3}{c}{\tex...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...column{3}{c}{\textbf{Vertical geophones}}
+                                                   & \multicolumn{3}{c}{\tex...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...column{3}{c}{\textbf{Vertical geophones}}
+                                                   & \multicolumn{3}{c}{\tex...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...column{3}{c}{\textbf{Vertical geophones}}
+                                                   & \multicolumn{3}{c}{\tex...
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.190 ...column{3}{c}{\textbf{Vertical geophones}}
+                                                   & \multicolumn{3}{c}{\tex...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.190 ...column{3}{c}{\textbf{Vertical geophones}}
+                                                   & \multicolumn{3}{c}{\tex...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.190 ...lumn{3}{c}{\textbf{Vertical geophones}} &
+                                                   \multicolumn{3}{c}{\textb...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.190 ...lumn{3}{c}{\textbf{Horizontal geophones}}
+                                                   \\ \cline{2-8}
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...lumn{3}{c}{\textbf{Horizontal geophones}}
+                                                   \\ \cline{2-8}
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...lumn{3}{c}{\textbf{Horizontal geophones}}
+                                                   \\ \cline{2-8}
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...lumn{3}{c}{\textbf{Horizontal geophones}}
+                                                   \\ \cline{2-8}
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...lumn{3}{c}{\textbf{Horizontal geophones}}
+                                                   \\ \cline{2-8}
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Undefined control sequence.
+<argument> ...nextchar \ifcase \@chclass \@classz 
+                                                  \or \@classi \or \@classii...
+l.190 ...lumn{3}{c}{\textbf{Horizontal geophones}}
+                                                   \\ \cline{2-8}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@mkpream ...hclass }\ifcase \@lastchclass \@acol 
+                                                  \or \or \@preamerr \@ne \o...
+l.190 ...lumn{3}{c}{\textbf{Horizontal geophones}}
+                                                   \\ \cline{2-8}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced \omit.
+\@cline #1-#2\@nil ->\omit 
+                           \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced alignment tab character &.
+<argument> &
+            \omit 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+<argument> &\omit 
+                  
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Leaders not followed by proper glue.
+<to be read again> 
+                   \hfill 
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+You should say `\leaders <box or rule><hskip or vskip>'.
+I found the <box or rule>, but there's no suitable
+<hskip or vskip>, so I'm ignoring these leaders.
+
+! Misplaced \cr.
+\@cline ...le \@height \arrayrulewidth \hfill \cr 
+                                                  \noalign {\vskip -\arrayru...
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\@cline ...ht \arrayrulewidth \hfill \cr \noalign 
+                                                  {\vskip -\arrayrulewidth }
+l.190 ...tbf{Horizontal geophones}} \\ \cline{2-8}
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced alignment tab character &.
+l.191         &
+                \textbf{Types} & \textbf{Mini} & \textbf{Small} & \textbf{Bi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.191         & \textbf{Types} &
+                                 \textbf{Mini} & \textbf{Small} & \textbf{Bi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.191         & \textbf{Types} & \textbf{Mini} &
+                                                 \textbf{Small} & \textbf{Bi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.191 ...Types} & \textbf{Mini} & \textbf{Small} &
+                                                   \textbf{Big} & \textbf{Mi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.191 ...f{Mini} & \textbf{Small} & \textbf{Big} &
+                                                   \textbf{Mini} & \textbf{S...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.191 ...f{Small} & \textbf{Big} & \textbf{Mini} &
+                                                   \textbf{Small} & \textbf{...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.191 ...f{Big} & \textbf{Mini} & \textbf{Small} &
+                                                   \textbf{Big} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\midrule ->\noalign 
+                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
+l.192   \midrule
+                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.193         X_
+                0 & m & 1 & 3 & 10 & 1 & 3 & 10 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.193         X_0 &
+                    m & 1 & 3 & 10 & 1 & 3 & 10 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.193         X_0 & m &
+                        1 & 3 & 10 & 1 & 3 & 10 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.193         X_0 & m & 1 &
+                            3 & 10 & 1 & 3 & 10 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.193         X_0 & m & 1 & 3 &
+                                10 & 1 & 3 & 10 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.193         X_0 & m & 1 & 3 & 10 &
+                                     1 & 3 & 10 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.193         X_0 & m & 1 & 3 & 10 & 1 &
+                                         3 & 10 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.193         X_0 & m & 1 & 3 & 10 & 1 & 3 &
+                                             10 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193         X_0 & m & 1 & 3 & 10 & 1 & 3 & 10 \\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.193         X_0 & m & 1 & 3 & 10 & 1 & 3 & 10 \\
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.194         \delta
+                     x & m & 1 & 1 & 1 & 2 & 2 & 2 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.194         \delta x &
+                         m & 1 & 1 & 1 & 2 & 2 & 2 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.194         \delta x & m &
+                             1 & 1 & 1 & 2 & 2 & 2 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.194         \delta x & m & 1 &
+                                 1 & 1 & 2 & 2 & 2 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.194         \delta x & m & 1 & 1 &
+                                     1 & 2 & 2 & 2 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.194         \delta x & m & 1 & 1 & 1 &
+                                         2 & 2 & 2 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.194         \delta x & m & 1 & 1 & 1 & 2 &
+                                             2 & 2 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.194         \delta x & m & 1 & 1 & 1 & 2 & 2 &
+                                                 2 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 ...  \delta x & m & 1 & 1 & 1 & 2 & 2 & 2 \\
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.194 ...  \delta x & m & 1 & 1 & 1 & 2 & 2 & 2 \\
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.195         Stacking &
+                         Times & 5 & 3 & 4 & 5 & 3 & 3 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.195         Stacking & Times &
+                                 5 & 3 & 4 & 5 & 3 & 3 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.195         Stacking & Times & 5 &
+                                     3 & 4 & 5 & 3 & 3 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.195         Stacking & Times & 5 & 3 &
+                                         4 & 5 & 3 & 3 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.195         Stacking & Times & 5 & 3 & 4 &
+                                             5 & 3 & 3 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.195         Stacking & Times & 5 & 3 & 4 & 5 &
+                                                 3 & 3 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.195 ...   Stacking & Times & 5 & 3 & 4 & 5 & 3 &
+                                                   3 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.196         ID &
+                   - & 3237 & 3240 & 3239  & 3242 & 3241 & 3243 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.196         ID & - &
+                       3237 & 3240 & 3239  & 3242 & 3241 & 3243 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.196         ID & - & 3237 &
+                              3240 & 3239  & 3242 & 3241 & 3243 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.196         ID & - & 3237 & 3240 &
+                                     3239  & 3242 & 3241 & 3243 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.196         ID & - & 3237 & 3240 & 3239  &
+                                             3242 & 3241 & 3243 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.196 ...    ID & - & 3237 & 3240 & 3239  & 3242 &
+                                                   3241 & 3243 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.196 ...& - & 3237 & 3240 & 3239  & 3242 & 3241 &
+                                                   3243 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.197         Name &
+                     - & V(mini) & V(small) & V(big) & V(mini) & V(small) & ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.197         Name & - &
+                         V(mini) & V(small) & V(big) & V(mini) & V(small) & ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.197         Name & - & V(mini) &
+                                   V(small) & V(big) & V(mini) & V(small) & ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.197         Name & - & V(mini) & V(small) &
+                                              V(big) & V(mini) & V(small) & ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.197 ... Name & - & V(mini) & V(small) & V(big) &
+                                                   V(mini) & V(small) & V(bi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.197 ...& V(mini) & V(small) & V(big) & V(mini) &
+                                                   V(small) & V(big) \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.197 ... V(small) & V(big) & V(mini) & V(small) &
+                                                   V(big) \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.198         Name &
+                     - & ch10,flip & ch10,flip & ch10 & ch10 & ch10 & 10,fli...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.198         Name & - &
+                         ch10,flip & ch10,flip & ch10 & ch10 & ch10 & 10,fli...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.198         Name & - & ch10,flip &
+                                     ch10,flip & ch10 & ch10 & ch10 & 10,fli...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.198         Name & - & ch10,flip & ch10,flip &
+                                                 ch10 & ch10 & ch10 & 10,fli...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.198 ...Name & - & ch10,flip & ch10,flip & ch10 &
+                                                   ch10 & ch10 & 10,flip \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.198 ...- & ch10,flip & ch10,flip & ch10 & ch10 &
+                                                   ch10 & 10,flip \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.198 ...0,flip & ch10,flip & ch10 & ch10 & ch10 &
+                                                   10,flip \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \noalign.
+\bottomrule ->\noalign 
+                       {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global...
+l.199   \bottomrule
+                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+! LaTeX Error: \begin{table} on input line 183 ended by \end{tabu}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201   \end{tabu}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<images/wavefield.png, id=103, 916.1728pt x 556.32843pt>
+File: images/wavefield.png Graphic file (type png)
+<use images/wavefield.png>
+Package pdftex.def Info: images/wavefield.png  used on input line 206.
+(pdftex.def)             Requested size: 412.27396pt x 250.34547pt.
+[21 <./images/inversionprocedure.png (PNG copy)> <./images/geophoneconfig.png (
+PNG copy)>]
+<images/DCinput.png, id=107, 1405.25pt x 716.6775pt>
+File: images/DCinput.png Graphic file (type png)
+<use images/DCinput.png>
+Package pdftex.def Info: images/DCinput.png  used on input line 218.
+(pdftex.def)             Requested size: 421.57826pt x 215.00491pt.
+<images/RVSRinput.png, id=108, 855.195pt x 391.4625pt>
+File: images/RVSRinput.png Graphic file (type png)
+<use images/RVSRinput.png>
+Package pdftex.def Info: images/RVSRinput.png  used on input line 226.
+(pdftex.def)             Requested size: 427.59647pt x 195.73076pt.
+
+Overfull \hbox (0.80513pt too wide) in paragraph at lines 226--227
+ [][] 
+ []
+
+[22 <./images/fieldtesta.png> <./images/fieldtestb.png> <./images/fieldtestc.pn
+g> <./images/fieldtestd.png>] [23 <./images/wavefield.png>] [24 <./images/DCinp
+ut.png> <./images/RVSRinput.png>]) [25] (./Chapter/references.tex [26
+
+]
+Overfull \hbox (13.02135pt too wide) in paragraph at lines 31--32
+\OT1/cmr/m/n/12 wave field trans-for-ma-tion. GEO-PHYSICS , 46(6), 869{874. doi
+.org/10.1190/1.1441225 
+ []
+
+[27]
+Overfull \hbox (58.8379pt too wide) in paragraph at lines 56--57
+\OT1/cmr/m/n/12 tu-tion of Civil En-gi-neers - Geotech-ni-cal En-gi-neer-ing, 3
+1{42. doi.org/10.1680/geng.2000.143.1.31 
+ []
+
+[28] [29]) [30] (./main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3855 strings out of 483183
+ 61426 string characters out of 5966292
+ 308965 words of memory out of 5000000
+ 18809 multiletter control sequences out of 15000+600000
+ 538719 words of font info for 45 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 41i,7n,42p,1888b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on main.pdf (32 pages, 4918568 bytes).
+PDF statistics:
+ 165 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+
